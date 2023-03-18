@@ -3,7 +3,8 @@ let app = Vue.createApp({
         return {
             targetData: {
                 name: "oo og",
-                fb: "https://web.facebook.com/?_rdc=1&_rdr"
+                fb: "https://web.facebook.com/?_rdc=1&_rdr",
+                codeBinding: '<a href="https://github.com/alamindawan/">Github</a>'
             }
         }
     }
